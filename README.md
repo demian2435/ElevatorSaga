@@ -1,4 +1,4 @@
-# ElevatorSaga_Script ALL SOLVED
+# ElevatorSaga ALL SOLVED
 
 GAME: https://play.elevatorsaga.com/
 
